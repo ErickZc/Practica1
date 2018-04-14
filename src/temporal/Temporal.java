@@ -5,17 +5,17 @@
  */
 package temporal;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Erick
  */
 public class Temporal {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
+        Scanner leer = new Scanner(System.in);
     }
     
 }
